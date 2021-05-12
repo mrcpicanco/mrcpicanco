@@ -1,16 +1,13 @@
-### Hi there 👋
+# Welcome!
 
-<!--
-**mrcpicanco/mrcpicanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! My name is Marco Aurélio. I am from Brazil born in **Amapá** ❤️ , but living in Santo André-SP. I am a business administrator, computer scientist and technology lover.
 
-Here are some ideas to get you started:
+### The wise will hear and grow in knowledge... (Proverbs 1: 5)
+- 🧑🏾‍💻 - mrcpicanco@gmail.com
+- 🎸
+- 🎯
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Reach me out 👇🏼
+
+
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCkLjOF2OBiM_ZX0jy7O7cmA)](https://www.youtube.com/channel/UCkLjOF2OBiM_ZX0jy7O7cmA) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcopicanco/)](https://www.linkedin.com/in/marcopicanco/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/marcopicanco/)](https://www.instagram.com/marcopicanco/) 
