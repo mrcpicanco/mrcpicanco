@@ -6,7 +6,7 @@ Hi! My name is Marco Aurélio. I am from Brazil born in **Amapá** ❤️ , but 
 
 ### Technologies
 - Html5
-- CSS3
+- Css3
 - GIT
 - Java
 - C#
