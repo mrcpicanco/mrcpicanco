@@ -9,7 +9,7 @@ Hi! My name is Marco Aurélio. I am from Brazil born in **Amapá** ❤️ , but 
 - Css3
 - GIT
 - Java
-- Python
+
 
 
 ## Reach me out 👇🏼
