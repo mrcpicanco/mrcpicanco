@@ -2,13 +2,10 @@
 
 ### The wise will hear and grow in knowledge... (Proverbs 1: 5)
 
-Hi! My name is Marco Aurélio. I am from Brazil born in **Amapá** ❤️ , but living in Santo André-SP. I am a business administrator, computer scientist and technology lover.
+
 
 ### Technologies
-- Html5
-- Css3
-- GIT
-- Java
+
 
 
 
