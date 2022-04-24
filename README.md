@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/picancomarco" target="blank"><img src="https://img.shields.io/twitter/follow/picancomarco?logo=twitter&style=for-the-badge" alt="picancomarco" /></a> </p>
 
-- 🌱 Atualmente estudando **Ruby, Ruby on rails e MongoDB.**
-
-- 📝 Regularmente escrevo em [https://medium.com/@mrcpicanco](https://medium.com/@mrcpicanco)
+- 🌱 Atualmente estudando **Ruby, Ruby on rails, MongoDB e Postgresql.**
 
 - 💬 Pergunte-me sobre **Técnologia, carreira profissional, programação e ciência de dados.**
 
@@ -25,8 +23,6 @@
 <a href="https://twitter.com/picancomarco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="picancomarco" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marcopicanco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcopicanco" height="30" width="40" /></a>
 <a href="https://instagram.com/marcopicanco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcopicanco" height="30" width="40" /></a>
-<a href="https://medium.com/@mrcpicanco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mrcpicanco" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucr-lhhjhh9kowimoin1cidg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucr-lhhjhh9kowimoin1cidg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
