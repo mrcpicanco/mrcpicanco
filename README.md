@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/picancomarco" target="blank"><img src="https://img.shields.io/twitter/follow/picancomarco?logo=twitter&style=for-the-badge" alt="picancomarco" /></a> </p>
 
-- 🌱 Atualmente estudando **Ruby, Ruby on rails, MongoDB e Postgresql.**
+- 🌱 Atualmente estudando **Ruby, Ruby on rails e MongoDB.**
 
 - 📝 Regularmente escrevo em [https://medium.com/@mrcpicanco](https://medium.com/@mrcpicanco)
 
