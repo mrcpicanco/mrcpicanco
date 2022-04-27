@@ -5,15 +5,9 @@
 
 - 🌱 Atualmente estudando **Ruby, Ruby on rails, MongoDB e Postgresql.**
 
-- 💬 Pergunte-me sobre **Técnologia, carreira profissional, programação e ciência de dados.**
+- 📫 E-mail: **marcopicanco@live.com**
 
-- 📫 Fale comigo **marcopicanco@live.com**
 
-- 📄 Saiba mais sobre mim [https://www.linkedin.com/in/marcopicanco/](https://www.linkedin.com/in/marcopicanco/)
-
-- ⚡ Curiosidades **Praticante de natação, ciclismo, corrida e jiu-jitsu.**
-
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
