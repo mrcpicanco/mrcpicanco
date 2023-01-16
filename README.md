@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marco Picanço</h1>
 <h3 align="center">Software devoloper.</h3>
 
-<p align="left"> <a href="https://twitter.com/picancomarco" target="blank"><img src="https://img.shields.io/twitter/follow/picancomarco?logo=twitter&style=for-the-badge" alt="picancomarco" /></a> </p>
+<p align="left"> <a href="https://twitter.com/marcopicanco" target="blank"><img src="https://img.shields.io/twitter/follow/marcopicanco?logo=twitter&style=for-the-badge" alt="marcopicanco" /></a> </p>
 
 - 🌱 Atualmente estudando **Ruby, Ruby on rails, MongoDB e Postgresql.**
 
