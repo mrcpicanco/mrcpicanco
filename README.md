@@ -1,5 +1,5 @@
 
-### <div align="center">Software Developer 👨‍💻 Ryby | Ruby On 🚀</div>  
+### <div align="center">Software Developer 👨‍💻 Ryby | Ruby On Rails 🚀</div>  
   
 
 - 🔭 Computer Scientist 💻 
