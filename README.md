@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/marcopicanco" target="blank"><img src="https://img.shields.io/twitter/follow/marcopicanco?logo=twitter&style=for-the-badge" alt="marcopicanco" /></a> </p>
 
-- 📝 I regularly write articles on www.marcopicanco.dev
-
-- 📫 How to reach me **mrcpicanco@gmail.com'**
+- 📫 How to reach me **marcopicanco@live.com'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
